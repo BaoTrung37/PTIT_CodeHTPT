@@ -1,0 +1,16 @@
+F:\Code for fun\CShap\bin\Debug\net5.0\CShap.exe
+F:\Code for fun\CShap\bin\Debug\net5.0\CShap.deps.json
+F:\Code for fun\CShap\bin\Debug\net5.0\CShap.runtimeconfig.json
+F:\Code for fun\CShap\bin\Debug\net5.0\CShap.runtimeconfig.dev.json
+F:\Code for fun\CShap\bin\Debug\net5.0\CShap.dll
+F:\Code for fun\CShap\bin\Debug\net5.0\ref\CShap.dll
+F:\Code for fun\CShap\bin\Debug\net5.0\CShap.pdb
+F:\Code for fun\CShap\obj\Debug\net5.0\CShap.csproj.AssemblyReference.cache
+F:\Code for fun\CShap\obj\Debug\net5.0\CShap.GeneratedMSBuildEditorConfig.editorconfig
+F:\Code for fun\CShap\obj\Debug\net5.0\CShap.AssemblyInfoInputs.cache
+F:\Code for fun\CShap\obj\Debug\net5.0\CShap.AssemblyInfo.cs
+F:\Code for fun\CShap\obj\Debug\net5.0\CShap.csproj.CoreCompileInputs.cache
+F:\Code for fun\CShap\obj\Debug\net5.0\CShap.dll
+F:\Code for fun\CShap\obj\Debug\net5.0\ref\CShap.dll
+F:\Code for fun\CShap\obj\Debug\net5.0\CShap.pdb
+F:\Code for fun\CShap\obj\Debug\net5.0\CShap.genruntimeconfig.cache
